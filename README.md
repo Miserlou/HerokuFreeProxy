@@ -10,7 +10,7 @@ To use this project, follow these steps:
 2. `$ heroku create`
 3. `$ git push heroku master`
 
-Then visit {{your_heroku_url}}/views/http://wikipedia.org
+Then visit {{your_heroku_url}}/proxy/http://wikipedia.org
 
 Season to taste.
 
